@@ -1,2 +1,1 @@
-# Lessen-Metarhia
-Курсы и темы из Metarhia
+# Курсы и темы Metarhia
